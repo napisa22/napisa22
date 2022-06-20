@@ -6,8 +6,9 @@
 ___
 `word`
 > "Quote"
+> https://www.sandotoken.io/
 > [https://www.sandotoken.io/]
-> ![https://www.sandotoken.io/images/sando-logo-text.svg]
+> !(https://www.sandotoken.io/images/sando-logo-text.svg)
 I,m Napisa.
 I have a bachelor degree in telecommunication engineering and master degree of management engineering. 
 I’m currently working on blockchain projects now.
