@@ -1,12 +1,11 @@
 ### Hi there 👋
-## two
-# one
+## hello
+# world
 **word**
 *word*
 ___
 `word`
 > "Quote"
-> https://www.sandotoken.io/
 > [https://www.sandotoken.io/]
 > !(thumbnail_IMG_4252.jpg)
 > ![napisa pic](thumbnail_IMG_4252.jpg)
